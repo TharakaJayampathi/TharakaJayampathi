@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-
-<br>
-<br>
+<hr/>
 
 <!-- <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharakaJayampathi&theme=radical&hide_langs_below=1&layout=compact" />
