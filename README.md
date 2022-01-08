@@ -27,10 +27,22 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharakaJayampathi&theme=radical&hide_langs_below=1&layout=compact" />
   <br>
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TharakaJayampathi&show_icons=true&theme=radical&line_height=21" alt="Tharaka's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TharakaJayampathi&show_icons=true&theme=radical&line_height=21" alt="Tharaka Jayampathi's github stats"/>
 </p>
 
 <br>
+
+
+
+<br/>
+    <a href="https://github.com/TharakaJayampathi/github-readme-stats"><img alt="Tharaka Jayampathi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TharakaJayampathi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/TharakaJayampathi/github-readme-stats"><img alt="Tharaka Jayampathi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharakaJayampathi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+
+
+
+
+
 
 ## Connect with me:
 <p align="left">
