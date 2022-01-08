@@ -19,7 +19,27 @@ Here are some ideas to get you started:
 
 <br>
 
-<hr/>
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently undergraduate at **[SLIIT.](https://www.sliit.lk/)**
+
+<!-- - 👯 I’m currently working as a **Frontend Developer.** -->
+
+- 🌱 I’m currently learning **Mobile Application Development and Cloud Computing.**
+
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
+
+- 📫 How to reach me **tharakajayampathikaranahaluge@gmail.com**
+
+<!-- - ⚡ **I love play Cricket, Badminton and like to eat Pizza.** -->
+<br /><br />
+
+
+
+
+
+
 
 <!-- <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharakaJayampathi&theme=radical&hide_langs_below=1&layout=compact" />
