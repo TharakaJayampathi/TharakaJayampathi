@@ -1,4 +1,4 @@
-### Hi there, I'm Tharaka Jayampathi -  👋
+<!-- ### Hi there, I'm Tharaka Jayampathi -  👋
 
 ## I'm a undergraduate at SLIIT !
 
@@ -17,16 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
+<!-- <br> -->
 
 
-## 🙋‍♂️ About Me
+<!-- ## 🙋‍♂️ About Me -->
 
-- 🔭 I’m currently undergraduate at **[SLIIT.](https://www.sliit.lk/)**
-
+-👋 I'm Tharaka Jayampathi
 <!-- - 👯 I’m currently working as a **Frontend Developer.** -->
 
-- 🌱 I’m currently learning **Mobile Application Development and Cloud Computing.**
+- 🌱 I'm a undergraduate at SLIIT
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
