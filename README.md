@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 <!-- ## 🙋‍♂️ About Me -->
 
--👋 I'm Tharaka Jayampathi
+ - 👋 Hi there, I'm Tharaka Jayampathi
 <!-- - 👯 I’m currently working as a **Frontend Developer.** -->
 
 - 🌱 I'm a undergraduate at SLIIT
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **tharakajayampathikaranahaluge@gmail.com**
+- 📫 How to reach me: Email: **tharakajayampathikaranahaluge@gmail.com**
 
 <!-- - ⚡ **I love play Cricket, Badminton and like to eat Pizza.** -->
 <br /><br />
