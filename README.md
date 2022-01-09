@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me: Email: **tharakajayampathikaranahaluge@gmail.com**
+- 📫 How to reach me: [@tharaka_jayampathi](https://www.linkedin.com/in/tharaka-jayampathi-b10275229/)
 
 <!-- - ⚡ **I love play Cricket, Badminton and like to eat Pizza.** -->
-<br /><br />
+
 
 
 
@@ -65,10 +65,30 @@ Here are some ideas to get you started:
 </div>
 <hr/> -->
 
+**Programming Languages and Tools 🌐**
+
+
+- Know/Using
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=Python&logoColor=F0DB4F"></code>
+<code><img height="20" src="https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F0DB4F"></code>
+<code><img height="20" src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"></code>
+<code><img height="20" src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F"></code>
+<code><img height="20" src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></code>
+<code><img height="20" src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F"></code>
+
+
+- Learning
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F"></code>
+<code><img height="20" src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F"></code>
+<code><img height="20" src="https://img.shields.io/badge/Microsoft%20Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F"></code>
 
 
 
-
+<hr/>
 
 ## Connect with me:
 <p align="left">
@@ -79,4 +99,3 @@ Here are some ideas to get you started:
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
-
