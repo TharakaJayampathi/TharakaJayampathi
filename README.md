@@ -2,7 +2,6 @@
 
 ## I'm a undergraduate at SLIIT !
 
-<!--
 **TharakaJayampathi/TharakaJayampathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,23 +21,14 @@ Here are some ideas to get you started:
 
 <!-- ## 🙋‍♂️ About Me -->
 
- - 👋 Hi there, I'm Tharaka Jayampathi
-<!-- - 👯 I’m currently working as a **Frontend Developer.** -->
+<!-- 👋 Hi there, I'm Tharaka Jayampathi -->
 
-- 🌱 I'm a undergraduate at SLIIT
+- ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Tharaka Jayampathi
+<!-- - 👯 I’m currently working as a **Backend Developer.** -->
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
+- 🌱 I'm an undergraduate at SLIIT
 
 - 📫 How to reach me: [@tharaka_jayampathi](https://www.linkedin.com/in/tharaka-jayampathi-b10275229/)
-
-<!-- - ⚡ **I love play Cricket, Badminton and like to eat Pizza.** -->
-
-
-
-
-
-
-
 
 <!-- <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharakaJayampathi&theme=radical&hide_langs_below=1&layout=compact" />
@@ -53,8 +43,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/TharakaJayampathi/github-readme-stats"><img alt="Tharaka Jayampathi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharakaJayampathi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <hr/>
-  
-  
+
+
 <!-- <hr/>
 <div align='left'>
   <a href='#'>
